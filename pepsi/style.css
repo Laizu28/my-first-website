@@ -1,0 +1,92 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    margin-bottom: 30px;
+}.nav-link{
+    font-size: 25px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color:white;
+    
+}
+.nav-item{
+    padding: 0px 20px;
+
+}
+.nav{
+    color:white;
+
+}
+.sec{
+    background: #360404
+
+}
+h1{
+    font-size: 60px;
+    line-height: 80px;
+}
+aside{
+  margin-left: auto;
+}
+.one{
+    margin-right: 50px;
+    margin-left:50px;
+    margin-top: 20px;
+    color:white;
+    line-height: 27px;
+
+}
+.brown{
+    color:rgb(247, 172, 74);
+    line-height: 35px;
+
+}
+.btn{
+   border: 1px solid white;
+   color:white;
+   font-size: 17px;
+   text-transform: uppercase;
+   text-align: center;
+   border-radius: 30px;
+
+}
+.btn:hover{
+    color:rgb(90, 16, 16);
+    background: cornsilk;
+    transition: 0.5s;
+    font-weight: 600;
+}
+.coffee{
+    margin-left: 63px;
+}
+.coffee img{
+    width:360px;
+}
+p{
+    text-align: justify;
+}
+
+.images ul{
+    margin-left: 0;
+    padding-left: 0;
+}
+.images ul li{
+ list-style: none;
+ padding: 20px;
+}
+.images ul li img{
+    width:90px;
+    border-radius: 10px;
+}
+.logo{
+    width:40px;
+}
+.navbar-brand .logo-text{
+    text-decoration: none;
+
+}
+.logo-text{
+    color:burlywood;
+    font-size: 25px;
+}
